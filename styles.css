@@ -135,7 +135,7 @@ a {
   color: #060615;
 }
 
-.partner {
+.projects {
   background: #fff8ef;
   color: #060615;
 }
@@ -173,10 +173,6 @@ a {
   max-width: 600px;
   text-align: center;
   margin: auto;
-}
-
-b {
-  display: block;
 }
 
 .selected {
